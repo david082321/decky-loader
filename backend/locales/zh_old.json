@@ -1,0 +1,21 @@
+{
+  "SettingsGeneralIndex": {
+    "developer_mode": {
+      "desc": "啟用 Decky 開發人員設定。"
+    }
+  },
+  "SettingsIndex": {
+    "navbar_settings": "Decky 設定"
+  },
+  "Store": {
+    "store_filter": {
+      "label": "過濾",
+      "label_def": "全部"
+    }
+  },
+  "Updater": {
+    "updates": {
+      "cur_version": "目前版本：{{ver}}"
+    }
+  }
+}
