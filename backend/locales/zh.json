@@ -1,0 +1,142 @@
+{
+  "BranchSelect": {
+    "update_channel": {
+      "label": "更新頻道"
+    }
+  },
+  "Developer": {
+    "5secreload": "將於 5 秒內重新載入",
+    "disabling": "停用中",
+    "enabling": "啟用中"
+  },
+  "DeveloperIndex": {
+    "react_devtools": {
+      "desc": "Enables connection to a computer running React DevTools. 更改此設定將重新載入 Steam。啟用前需要設定 IP 地址。",
+      "ip_label": "IP",
+      "label": "啟用 React DevTools"
+    },
+    "valve_internal": {
+      "desc1": "Enables the Valve internal developer menu.",
+      "desc2": "除非您知道它的作用，否則不要按此選單中的任何內容。",
+      "label": "啟用 Valve Internal"
+    }
+  },
+  "PluginCard": {
+    "plugin_full_access": "這個外掛程式擁有您的 Steam Deck 的完整控制權。",
+    "plugin_install": "安裝",
+    "plugin_no_desc": "未提供資訊。",
+    "plugin_version_label": "外掛程式版本"
+  },
+  "PluginInstallModal": {
+    "install": {
+      "button_idle": "安裝",
+      "button_processing": "正在安裝",
+      "desc": "您確定要安裝 {{artifact}} {{version}} 嗎？",
+      "title": "安裝 {{artifact}}"
+    }
+  },
+  "PluginListIndex": {
+    "list_no_plugin": "未安裝任何外掛程式！",
+    "list_plug_actions_label": "操作外掛程式",
+    "list_update_to": "更新至 {{name}}",
+    "reload": "重新載入",
+    "uninstall": "解除安裝"
+  },
+  "PluginLoader": {
+    "decky_title": "Decky",
+    "decky_update_available": "可更新至 {{tag_name}}！",
+    "error": "錯誤",
+    "file_picker_cancel_text": "使用者取消",
+    "plugin_error_uninstall": "如果您需要解除安裝此外掛程式，請到 Decky 選單中的 {{-icon}}。",
+    "plugin_load_error": {
+      "message": "載入外掛程式 {{name}} 時出錯",
+      "toast": "載入 {{name}} 時出錯"
+    },
+    "plugin_uninstall": {
+      "button": "解除安裝",
+      "desc": "您確定要解除安裝 {{name}} 嗎？",
+      "title": "解除安裝 {{name}}"
+    },
+    "plugin_update_one": "有 1 個外掛程式可更新！",
+    "plugin_update_other": "有 {{count}} 個外掛程式可更新！"
+  },
+  "RemoteDebugging": {
+    "remote_cef": {
+      "desc": "Allow unauthenticated access to the CEF debugger to anyone in your network",
+      "label": "允許 Remote CEF Debugging"
+    }
+  },
+  "SettingsGeneralIndex": {
+    "about": {
+      "decky_version": "Decky 版本",
+      "header": "關於"
+    },
+    "beta": {
+      "header": "參與測試"
+    },
+    "developer_mode": {
+      "label": "開發人員模式"
+    },
+    "manual_plugin": {
+      "button": "安裝",
+      "label": "手動安裝外掛程式",
+      "url_label": "網址"
+    },
+    "other": {
+      "header": "其他"
+    },
+    "updates": {
+      "header": "更新"
+    }
+  },
+  "SettingsIndex": {
+    "developer_title": "開發人員",
+    "general_title": "一般",
+    "plugins_title": "外掛程式"
+  },
+  "Store": {
+    "store_contrib": {
+      "desc": "如果您想為 Decky 外掛程式商店做貢獻，請查看 GitHub 上的 SteamDeckHomebrew/decky-plugin-template 儲存庫。README 中提供了有關開發和發佈的資訊。",
+      "label": "貢獻"
+    },
+    "store_search": {
+      "label": "搜尋"
+    },
+    "store_sort": {
+      "label": "排序",
+      "label_def": "最後更新 (最新)"
+    },
+    "store_source": {
+      "desc": "所有外掛程式的原始碼，都可以在 GitHub 上的 SteamDeckHomebrew/decky-plugin-database 儲存庫中找到。",
+      "label": "原始碼"
+    },
+    "store_tabs": {
+      "about": "關於",
+      "alph_asce": "字母順序（Z 到 A）",
+      "alph_desc": "字母順序（A 到 Z）",
+      "title": "開啟"
+    },
+    "store_testing_cta": "請考慮測試新外掛程式，來幫助我們（Decky Loader team）！"
+  },
+  "StoreSelect": {
+    "custom_store":{
+      "label": "自訂商店",
+      "url_label": "網址"
+    },
+    "store_channel_label": "商店頻道"
+  },
+  "Updater": {
+    "decky_updates": "更新 Decky",
+    "no_patch_notes_desc": "此版本無更新記錄",
+    "patch_notes_desc": "更新記錄",
+    "updates": {
+      "check_button": "檢查更新",
+      "checking": "檢查中",
+      "install_button": "安裝更新",
+      "label": "更新",
+      "lat_version": "目前最新: 執行 {{ver}}",
+      "reloading": "重新載入中",
+      "updating": "更新中"
+    }
+  }
+}
